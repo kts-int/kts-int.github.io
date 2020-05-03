@@ -1,3 +1,5 @@
+NOTE: This was code was not created by me. It was forked from https://github.com/flexdinesh/dev-landing-page 
+
 # Dev Landing Page
 
 Minimal landing page for developers.
